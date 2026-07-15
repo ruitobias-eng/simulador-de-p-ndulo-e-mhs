@@ -1,0 +1,6 @@
+{
+  "name": "Simulador de Pêndulo e MHS",
+  "description": "Um laboratório interativo para explorar o Movimento Harmônico Simples de um pêndulo, com visualização em tempo real, análise de energia, e gerador de código Python.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
