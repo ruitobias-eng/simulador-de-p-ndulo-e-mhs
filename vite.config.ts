@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/simulador-de-p-ndulo-e-mhs/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
